@@ -8,7 +8,7 @@ We've used Agora.io stack to help people learn, instruct others & participate in
 
 - Youtube: [https://youtu.be/sN4ITLhJ5zs](https://youtu.be/sN4ITLhJ5zs)
 
-- Github: [https://github.com/AgoraIO-Community/AvatAR](https://github.com/AgoraIO-Community/AvatAR)
+- Github: [https://github.com/jemail/AvatAR](https://github.com/jemail/AvatAR)
 
 - Demo: [https://avatar-agora.surge.sh](https://avatar-agora.surge.sh)
 
